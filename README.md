@@ -2,6 +2,13 @@
 
 Интерактивная викторина на Python, посвященная великим произведениям русского изобразительного искусства. 
 
+### 📥 Скачать и запустить
+👉 **[Скачать готовую игру ArtQuiz v1.0 (.zip)](https://github.com/govno0591-cmd/masterpieces-of-art/releases/latest/download/ArtQuiz_1.0.zip)**
+
+#### Запуск из кода (для разработчиков):
+1. Установите Python.
+2. Запустите файл `RussianArtQuiz.pyw`.
+
 ### 🛠 Технологии
 * **Язык:** Python
 * **Библиотеки:** Tkinter
@@ -20,11 +27,4 @@
 
 
 
----
 
-### 📥 Скачать и запустить
-👉 **[Скачать готовую игру ArtQuiz v1.0 (.zip)](https://github.com/govno0591-cmd/masterpieces-of-art/releases/latest/download/ArtQuiz_1.0.zip)**
-
-#### Запуск из кода (для разработчиков):
-1. Установите Python.
-2. Запустите файл `RussianArtQuiz.pyw`.
